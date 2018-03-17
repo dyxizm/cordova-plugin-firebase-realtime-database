@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297069480208",
+    "firebase_url": "https://zz-messenger.firebaseio.com",
+    "project_id": "zz-messenger",
+    "storage_bucket": "zz-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297069480208:android:15ceb75bde745d46",
+        "android_client_info": {
+          "package_name": "ru.zzap.ZZap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297069480208-7kf6ummf4fohvt8nf6k5k0lj1rtf4ak4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFY3VqkJ5nULVzAStr9xP4k97E3BRSaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
